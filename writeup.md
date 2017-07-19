@@ -27,11 +27,9 @@ In this function:
 
 After calling this function twice for positive and negative oriented lines subsets two aggregated lines are drawing using _draw_lines_ function with 10 cm tickness.
 
-[//]: # (Image References)
-
-[image1]: ./test_images/solidYellowCurve.jpg "Input"
-[image2]: ./test_images_out/solidYellowCurve_out.jpg "Output"
-[image3]: ./test_images_out/solidYellowCurve_out_merge.jpg "Output Merged"
+![Input image](test_images/solidYellowCurve.jpg)
+![Output image](test_images_out/solidYellowCurve_out.jpg)
+![Output Merged](test_images_out/solidYellowCurve_out_merge.jpg)
 
 ### 2. Potential shortcomings
 
